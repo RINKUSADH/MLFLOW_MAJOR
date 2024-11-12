@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/bbe54e0e93bd45faaefeeeab9237ffb7/artifacts
+end_time: 1731396351803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbe54e0e93bd45faaefeeeab9237ffb7
+run_name: defiant-mouse-517
+run_uuid: bbe54e0e93bd45faaefeeeab9237ffb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396351684
+status: 4
+tags: []
+user_id: rinkusadh

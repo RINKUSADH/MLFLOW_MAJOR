@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/a0c09af68ff04889823434a500f2b594/artifacts
+end_time: 1731397356654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0c09af68ff04889823434a500f2b594
+run_name: Logistic Regression
+run_uuid: a0c09af68ff04889823434a500f2b594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731397349696
+status: 3
+tags: []
+user_id: rinkusadh

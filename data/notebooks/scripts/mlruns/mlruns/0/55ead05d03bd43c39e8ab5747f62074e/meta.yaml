@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/55ead05d03bd43c39e8ab5747f62074e/artifacts
+end_time: 1731396953219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55ead05d03bd43c39e8ab5747f62074e
+run_name: angry-fowl-266
+run_uuid: 55ead05d03bd43c39e8ab5747f62074e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396953130
+status: 3
+tags: []
+user_id: rinkusadh

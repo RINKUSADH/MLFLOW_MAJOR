@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/079d8b4c91db405f94b72596269e4ae7/artifacts
+end_time: 1731396229083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 079d8b4c91db405f94b72596269e4ae7
+run_name: rare-fly-506
+run_uuid: 079d8b4c91db405f94b72596269e4ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396228676
+status: 4
+tags: []
+user_id: rinkusadh

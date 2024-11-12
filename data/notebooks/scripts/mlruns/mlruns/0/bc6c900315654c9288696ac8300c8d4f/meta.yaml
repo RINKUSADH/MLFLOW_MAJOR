@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/bc6c900315654c9288696ac8300c8d4f/artifacts
+end_time: 1731395581359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc6c900315654c9288696ac8300c8d4f
+run_name: Random Forest
+run_uuid: bc6c900315654c9288696ac8300c8d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395575101
+status: 3
+tags: []
+user_id: rinkusadh

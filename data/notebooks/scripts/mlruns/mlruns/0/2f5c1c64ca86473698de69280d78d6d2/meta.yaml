@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/2f5c1c64ca86473698de69280d78d6d2/artifacts
+end_time: 1731396351800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f5c1c64ca86473698de69280d78d6d2
+run_name: lyrical-ox-400
+run_uuid: 2f5c1c64ca86473698de69280d78d6d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396351705
+status: 4
+tags: []
+user_id: rinkusadh

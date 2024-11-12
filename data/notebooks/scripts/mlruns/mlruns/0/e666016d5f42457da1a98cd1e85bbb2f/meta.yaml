@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rinkusadh/MLFLOW_MAJOR/data/notebooks/scripts/mlruns/mlruns/0/e666016d5f42457da1a98cd1e85bbb2f/artifacts
+end_time: 1731396953216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e666016d5f42457da1a98cd1e85bbb2f
+run_name: stately-goat-308
+run_uuid: e666016d5f42457da1a98cd1e85bbb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731396953149
+status: 3
+tags: []
+user_id: rinkusadh
